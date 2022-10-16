@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @shun-int
-- 💞️ I’m **Fang XS.**,Still a college student.
-- 👀 I’m interested in Embedded C/C++,Hardware, Digital & AnalogElectronics,FreeRTOS,STM32,C51...
-- 🌱 I’m currently learning about Embedded ...
-- 📫 <1452512966@QQ.com>
+- Hi, I’m @shun-int
+- I’m **Fang XS.**,Still a college student.
+- I’m interested in Embedded C/C++,Hardware, Digital & AnalogElectronics,FreeRTOS,STM32,C51...
+- I’m currently learning about Embedded ...
+- <1452512966@QQ.com>
+- [CSDN](https://blog.csdn.net/m0_49319736?type=blog)
 
 
 <!---
